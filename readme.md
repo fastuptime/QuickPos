@@ -147,17 +147,17 @@ const quickPos = new QuickPos({
 
 ### İlerleme Durumu
 
-- [x] PayTR entegrasyonu
-- [ ] İyzico entegrasyonu
-- [ ] Vallet entegrasyonu
-- [ ] Shipy entegrasyonu
-- [ ] Shopinext entegrasyonu
-- [ ] Paywant entegrasyonu
-- [ ] Payizone entegrasyonu
-- [ ] Weepay entegrasyonu
-- [ ] Paynet entegrasyonu
-- [ ] Stripe entegrasyonu
-- [ ] PayPal entegrasyonu
+- [x] PayTR entegrasyonu     > 0 ✨
+- [ ] Vallet entegrasyonu    > 5 ✨
+- [ ] Shipy entegrasyonu     > 5 ✨
+- [ ] İyzico entegrasyonu    > 10 ✨
+- [ ] Shopinext entegrasyonu > 10 ✨
+- [ ] Paywant entegrasyonu   > 15 ✨
+- [ ] Payizone entegrasyonu  > 20 ✨
+- [ ] Weepay entegrasyonu    > 25 ✨
+- [ ] Paynet entegrasyonu    > 30 ✨
+- [ ] Stripe entegrasyonu    > 40 ✨
+- [ ] PayPal entegrasyonu    > 40 ✨
 
 ---
 
