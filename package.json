@@ -1,6 +1,6 @@
 {
   "name": "quickpos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,9 +22,18 @@
     "weepay",
     "paynet",
     "stripe",
-    "paypal"
+    "paypal",
+    "shopier"
   ],
-  "author": "Can & SpeedSMM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastuptime/QuickPos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fastuptime/QuickPos/issues"
+  },
+  "homepage": "https://github.com/fastuptime/QuickPos",
+  "author": "Can & SpeedSMM <fastuptime@gmail.com>",
   "license": "ISC",
   "description": "",
   "dependencies": {
