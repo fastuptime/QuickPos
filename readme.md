@@ -1,6 +1,6 @@
 # 💳 QuickPos 🚀
 
-QuickPos, farklı ödeme sağlayıcılarını destekleyen güçlü bir ödeme entegrasyon modülüdür. Şu anda PayTR sağlayıcısını desteklemektedir ve gelecekte birçok yeni sağlayıcı ile özellik eklemeyi planlamaktadır. Yol haritamıza göz atarak gelecek özellikleri keşfedebilirsiniz.
+QuickPos, farklı ödeme sağlayıcılarını destekleyen güçlü bir ödeme entegrasyon modülüdür. Şu anda PayTR, Shopier, Cryptomus, Payeer, Papara sağlayıcısını desteklemektedir ve gelecekte birçok yeni sağlayıcı ile özellik eklemeyi planlamaktadır. Yol haritamıza göz atarak gelecek özellikleri keşfedebilirsiniz.
 
 ---
 
@@ -134,6 +134,9 @@ const quickPos = new QuickPos({
 
 - PayTR
 - Shopier
+- Cryptomus
+- Payeer
+- Papara
 
 ---
 
@@ -149,6 +152,10 @@ const quickPos = new QuickPos({
 ### İlerleme Durumu
 
 - [x] PayTR entegrasyonu
+- [x] Shopier entegrasyonu
+- [x] Cryptomus entegrasyonu
+- [x] Payeer entegrasyonu
+- [x] Papara entegrasyonu
 - [ ] İyzico entegrasyonu
 - [ ] Vallet entegrasyonu
 - [ ] Shipy entegrasyonu
