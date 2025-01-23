@@ -9,9 +9,9 @@ app.use(bodyParser.json());
 const quickPos = new QuickPos({
   providers: {
     paytr: {
-      merchantId: '347042',
-      merchantKey: 'XxXxx',
-      merchantSalt: 'XxxXxxX',
+      merchantId: 'xx',
+      merchantKey: 'xx',
+      merchantSalt: 'xxx',
       mode: 'test',
     }
   },

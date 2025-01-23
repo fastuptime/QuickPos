@@ -1,6 +1,6 @@
 {
   "name": "quickpos",
-  "version": "1.0.5",
+  "version": "1.0.902",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
