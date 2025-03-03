@@ -18,7 +18,7 @@ const quickPos = new QuickPos({
 
 app.use(quickPos.middleware());
 
-quickPos.providers['shopier'].postProducts({
+quickPos.providers['shopier'].createPayment({
   type: 'digital',
   priceData: {
     currency: 'TRY',
