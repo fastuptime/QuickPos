@@ -31,7 +31,8 @@ class QuickPos {
       }
 
       try {
-        const result = await this.providers[providerName].handleCallback(req.body);
+        let qProviders = ["paymaya"];
+        const result = await this.providers[providerName].handleCallback(!qProviders.includes(providerName) ? req.body : req.query);
         req.paymentResult = result;
         next();
       } catch (error) {
